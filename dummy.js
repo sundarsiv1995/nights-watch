@@ -1,7 +1,7 @@
 // This file contains dummy information data
 
 var dummy_info = {
-  // Customer module configsq
+  // Customer module configsqa
   "users": [
     {
       "username": "admin",
